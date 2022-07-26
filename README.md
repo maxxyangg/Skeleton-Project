@@ -8,7 +8,7 @@ Notes:
 
 - Program uses Apache poi api and JSON api.
 - If project does not have jar files included when it is imported, download and extract the jar files into the project's buildPath -> Libararies -> Classpath
-- Skeleton_Documentation.pptx provides some brief details about the program and how it is run.
+- Skeleton_Documentation.pptx is located in the project folder and provides some brief details about the program and how it is run.
 - Program uses https://indic-wp.thisisjava.com/api/getLogicalChars.php?string= API call. If the website is down, the program will not run correctly.
 - Prefences/Settings that require attention before running the program:
 
